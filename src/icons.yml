@@ -1574,7 +1574,7 @@ icons:
 
   - name:       GitHub
     id:         github
-    unicode:    f09b
+    unicode:    f09f
     created:    2.0
     filter:
       - octocat
